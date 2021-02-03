@@ -1,0 +1,28 @@
+{
+  "name": "projetouser",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/LucasEskilo/ProjetoUser3.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LucasEskilo/ProjetoUser3.git"
+  },
+  "homepage": "https://github.com/LucasEskilo/ProjetoUser3.git",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "http-status": "^1.4.2",
+    "mysql2": "^2.1.0",
+    "sequelize": "^6.3.5",
+    "sequelize-msnodesqlv8": "^0.2.6-beta.8",
+    "tedious": "^9.2.1"
+  }
+}
